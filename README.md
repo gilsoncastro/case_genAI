@@ -4,6 +4,8 @@
 Este projeto é um **ChatBot interativo** que utiliza **PDFs** carregados pelo usuário para responder a perguntas sobre seguros. Ele é baseado em **IA generativa** e **Processamento de Linguagem Natural** (PLN) usando ferramentas como **Google Generative AI**, **LangChain** e **FAISS** para busca semântica.
 
 ![Descrição da Imagem](tela_chat.png)
+![Descrição da Imagem](tela_chat2.png)
+
 
 
 ## Estrutura do Projeto
