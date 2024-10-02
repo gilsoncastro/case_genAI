@@ -20,9 +20,6 @@ Este projeto é um **ChatBot interativo** que utiliza **PDFs** carregados pelo u
    - `utils.py` - Funções auxiliares (utilitárias).
 6. **`README.md`** - Instruções do projeto. 
 
-Esse formato de Markdown é mais flexível para a documentação do projeto e garante que as informações estão bem organizadas.
-
-
 
 ## Funcionalidades
 
