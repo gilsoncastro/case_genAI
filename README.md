@@ -26,6 +26,9 @@ Este projeto é um **ChatBot interativo** que utiliza **PDFs** carregados pelo u
 6. **`README.md`** - Instruções do projeto. 
 
 
+![Descrição da Imagem](fluxo_RAG_Gemini.png)
+
+
 ## Funcionalidades
 
 - **Processamento de PDFs**: O usuário pode fazer upload de múltiplos PDFs que serão processados para extração de texto.
