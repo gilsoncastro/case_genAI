@@ -3,6 +3,9 @@
 
 Este projeto é um **ChatBot interativo** que utiliza **PDFs** carregados pelo usuário para responder a perguntas sobre seguros. Ele é baseado em **IA generativa** e **Processamento de Linguagem Natural** (PLN) usando ferramentas como **Google Generative AI**, **LangChain** e **FAISS** para busca semântica.
 
+![Descrição da Imagem](tela_chat.png)
+
+
 ## Estrutura do Projeto
 
 1. **`app.py`** - Arquivo principal para execução do Streamlit.
